@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Onelife\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Onelife\\.nuget\\packages"
+    ]
+  }
+}

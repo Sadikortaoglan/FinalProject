@@ -1,0 +1,16 @@
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\Onelife\source\repos\FinalProject\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\Onelife\source\repos\FinalProject\Business\obj\Debug\netstandard2.1\Business.pdb
