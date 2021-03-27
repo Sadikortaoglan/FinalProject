@@ -1694,6 +1694,7 @@
           "Microsoft.Extensions.Configuration": "5.0.0",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.1",
+          "Newtonsoft.Json": "10.0.1",
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
         },
         "runtime": {

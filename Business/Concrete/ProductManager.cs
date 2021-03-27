@@ -29,7 +29,7 @@ namespace Business.Concrete
             _productDal = productDal;
             _categoryService = categoryService;
         }
-
+        //Claim
         [SecuredOperation("product.add,admin")]
         [ValidationAspect(typeof(ProductValidator))]
         [CacheRemoveAspect("IProductService.Get")]
@@ -41,6 +41,7 @@ namespace Business.Concrete
                 return result;
             }
             _productDal.Add(product);
+
             return new SuccessResult(Messages.ProductAdded);
         }
         [CacheAspect]
@@ -109,7 +110,7 @@ namespace Business.Concrete
             }
             return new SuccessResult();
         }
-         [TransactionScopeAspect]
+         
         public IResult AddTransactionalTest(Product product)
         {
             throw new NotImplementedException();

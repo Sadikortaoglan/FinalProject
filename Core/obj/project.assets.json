@@ -7620,6 +7620,7 @@
       "Microsoft.Extensions.Configuration >= 5.0.0",
       "Microsoft.Extensions.Configuration.Binder >= 5.0.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
+      "Newtonsoft.Json >= 10.0.1",
       "System.IdentityModel.Tokens.Jwt >= 6.8.0"
     ]
   },
@@ -7702,6 +7703,10 @@
             "target": "Package",
             "version": "[5.0.1, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[10.0.1, )"
+          },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
             "version": "[6.8.0, )"
@@ -7722,7 +7727,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
